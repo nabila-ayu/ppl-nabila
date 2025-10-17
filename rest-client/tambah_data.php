@@ -20,7 +20,7 @@
         );
  
         //url untuk tambah data
-        $url="http://localhost/rest-api/tambah_data.php";
+        $url="http://localhost/PPL-NABILA/rest-api/tambah_data.php";
  
         //menyimpan hasil dalam variabel
         $hasil=http_request_post($url,$data);
